@@ -1,2 +1,1 @@
-# BabyYoda
-A twitch integrated baby yoda that you can interact with
+[![Run on Repl.it](https://repl.it/badge/github/zerratar/BabyYoda)](https://repl.it/github/zerratar/BabyYoda)
